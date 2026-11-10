@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+backend/target/
+backend/.gradle/
+.idea/
+*.iml
+evidence_*.png
